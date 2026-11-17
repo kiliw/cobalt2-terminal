@@ -10,9 +10,12 @@ only provides the Terminal.app profile and the converter that creates it.
 
 ## Install
 
+**[Download Cobalt2.terminal](https://github.com/kiliw/cobalt2-terminal/releases/latest/download/Cobalt2.terminal)**
+and double-click it. Or from the command line:
+
 ```sh
-git clone https://github.com/kiliw/cobalt2-terminal.git
-open cobalt2-terminal/Cobalt2.terminal
+curl -fsSLO https://github.com/kiliw/cobalt2-terminal/releases/latest/download/Cobalt2.terminal
+open Cobalt2.terminal
 ```
 
 Opening the file imports the **Cobalt2** profile into Terminal.app. To use it
